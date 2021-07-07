@@ -2,9 +2,11 @@
 
 1>>install python3
 
-2>Now Run step 3
+2> Download zip File or git clone https://github.com/shawon-mj/DDOS-MJ.git
 
-3> python3 DDOS.py 100.100.100.100 80
+3>Now Run step 4
+
+4> python3 DDOS.py 100.100.100.100 80
 
 Target Ip = 100.100.100.100 = give your target ip
 
