@@ -13,6 +13,4 @@ Port = 80!
 Screnshoot
 
 
-
-![IMG_20210708_010920](https://user-images.githubusercontent.com/87042573/124816910-e4151580-df8a-11eb-96c6-0bfdc96a2b33.png)
-
+![IMG_20210708_013509](https://user-images.githubusercontent.com/87042573/124818503-ed06e680-df8c-11eb-9b12-28d401ead7a6.png)
