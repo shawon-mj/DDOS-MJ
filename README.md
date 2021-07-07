@@ -8,7 +8,8 @@
 Target Ip = 100.100.100.100
 
 Port = 80!
-screnshoot
 
-![IMG_20210708_010920](https://user-images.githubusercontent.com/87042573/124816167-022e4600-df8a-11eb-9b72-b6813a620f9a.png)
+Screnshoot
+
+![IMG_20210708_010920](https://user-images.githubusercontent.com/87042573/124816260-1d995100-df8a-11eb-961f-6068bd496b18.png)
 
